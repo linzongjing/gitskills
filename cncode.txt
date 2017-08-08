@@ -1,5 +1,6 @@
 ﻿git中文乱码问题处理。
 本地调整
 Creating a new branch is quick AND simple.
-在远程库上修改内容。
-
+GitHub出客户端版本了 
+GUI不就是客户端吗 为什么又搞出这个。
+客户端版本适合不会用命令行的用户。
